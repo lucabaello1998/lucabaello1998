@@ -18,14 +18,14 @@ Actualmente curso la **Licenciatura en Informática** en la Universidad Nacional
 * **Backend**: .NET 8 / ASP.NET Core, C#, EF Core, SQL Server, PostgreSQL / PostGIS, SignalR, Arquitectura Limpia / Capas, REST APIs, JWT & Auth flows.
 * **Frontend**: React 19, Next.js 15, TypeScript, Vite, Tailwind CSS, PrimeReact, Material UI, Zustand.
 * **Mobile / PWA**: Flutter (Riverpod), Capacitor, Progressive Web Apps offline-first.
-* **Tooling & AI**: Orquestación de agentes (Claude Code, OpenCode), automatización de testing, optimización de consumo de tokens, MCP servers.
+* **Tooling & AI**: Orquestación de agentes (Claude Code, OpenCode, Codex, Gemini), automatización de testing, optimización de consumo de tokens, MCP servers.
 
 ### 🛠️ Proyectos Destacados
 
-* 📊 **[Claude Cockpit](https://github.com/lucabaello1998/claude-cockpit)**  
-  Dashboard de escritorio (Electron + React 19 + Vite) para auditoría local de Claude Code: indexa costos, tokens, transacciones, memorias, MCPs y boards sin backend externo.
+* 🎛️ **[OpenCockpit](https://github.com/lucabaello1998/OpenCockpit)** • [Descargar v1.1.0](https://github.com/lucabaello1998/OpenCockpit/releases/latest)  
+  Dashboard de escritorio (Electron 44 + React 19 + Vite) multi-herramienta: audita de forma 100% local sesiones, tokens, costos y conversaciones de Claude Code, OpenCode, Codex, Gemini/Antigravity, Copilot, Cursor y Cline/Roo Code sin backend ni telemetría.
 * 📦 **[FletAR](https://github.com/lucabaello1998/FletAR)**  
-  Marketplace de fletes y logística liviana en Argentina. Backend desacoplado en .NET 8 + PostGIS + SignalR con cliente mobile en Flutter.
+  Marketplace de fletes y logística liviana en Argentina. Backend desacoplado en .NET 8 + PostGIS + SignalR con cliente mobile en Flutter (Riverpod).
 * ⚡ **[ai-progress](https://github.com/lucabaello1998/ai-progress)**  
   Widget flotante en Windows para seguimiento unificado de progreso y tareas en segundo plano para agentes de IA vía `status.json`.
 * 🧪 **[liquid-glass-lab](https://github.com/lucabaello1998/liquid-glass-lab)**  
@@ -50,12 +50,12 @@ Currently pursuing a **B.S. in Computer Science** at Universidad Nacional de Hur
 * **Backend**: .NET 8 / ASP.NET Core, C#, EF Core, SQL Server, PostgreSQL / PostGIS, SignalR, Clean Architecture / Layered Design, RESTful APIs, JWT & Auth flows.
 * **Frontend**: React 19, Next.js 15, TypeScript, Vite, Tailwind CSS, PrimeReact, Material UI, Zustand.
 * **Mobile / PWA**: Flutter (Riverpod), Capacitor, offline-first Progressive Web Apps.
-* **Tooling & AI**: AI Agent Orchestration (Claude Code, OpenCode), test automation, token cost optimization, MCP servers.
+* **Tooling & AI**: AI Agent Orchestration (Claude Code, OpenCode, Codex, Gemini), test automation, token cost optimization, MCP servers.
 
 ### 🛠️ Featured Projects
 
-* 📊 **[Claude Cockpit](https://github.com/lucabaello1998/claude-cockpit)**  
-  Desktop dashboard (Electron + React 19 + Vite) for local Claude Code auditing: parses token usage, costs, session transcripts, memory graphs, and custom MCP integrations without external backends.
+* 🎛️ **[OpenCockpit](https://github.com/lucabaello1998/OpenCockpit)** • [Download v1.1.0](https://github.com/lucabaello1998/OpenCockpit/releases/latest)  
+  Multi-tool desktop dashboard (Electron 44 + React 19 + Vite) for local AI engineering audits: tracks token usage, costs, sessions, and full conversation transcripts across Claude Code, OpenCode, Codex, Gemini/Antigravity, Copilot, Cursor, and Cline without backends or telemetry.
 * 📦 **[FletAR](https://github.com/lucabaello1998/FletAR)**  
   Freight and on-demand logistics marketplace for Argentina. Decoupled .NET 8 + PostGIS + SignalR backend paired with a cross-platform Flutter mobile client.
 * ⚡ **[ai-progress](https://github.com/lucabaello1998/ai-progress)**  
