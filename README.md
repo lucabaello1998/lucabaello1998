@@ -16,13 +16,15 @@ Actualmente curso la **Licenciatura en Informática** en la Universidad Nacional
 
 ### 🚀 Stack Técnico
 
-* **Backend**: .NET 8 / ASP.NET Core, C#, EF Core, SQL Server, PostgreSQL / PostGIS, SignalR, Arquitectura Limpia / Capas, REST APIs, JWT & Auth flows.
+* **Backend**: .NET 8 / ASP.NET Core, C#, EF Core, SQL Server, PostgreSQL / PostGIS, SignalR, PHP 8.3 / Laravel 12, Arquitectura Limpia / Capas, REST APIs, JWT & Auth flows.
 * **Frontend**: React 19, Next.js 15, TypeScript, Vite, Tailwind CSS, PrimeReact, Material UI, Zustand.
 * **Mobile / PWA**: Flutter (Riverpod), Capacitor, Progressive Web Apps offline-first.
 * **Tooling & AI**: Orquestación de agentes (Claude Code, OpenCode, Codex, Gemini), automatización de testing, optimización de consumo de tokens, MCP servers.
 
 ### 🛠️ Proyectos Destacados
 
+* 🧱 **[FieldOps](https://github.com/lucabaello1998/fieldops-modernization)** • [Presentación](https://github.com/lucabaello1998/fieldops-modernization/blob/main/docs/FieldOps.pptx)  
+  Modernización de un sistema de gestión de campo en producción (PHP 7.4 + jQuery, 76 tablas sin claves foráneas, 11,3 M de filas) a Laravel 12 + PHP 8.3 + MySQL 8: el esquema real migrado sin recortes, Kanban con drag & drop validado en el servidor y 53 tests de feature sobre MySQL real, con demo reproducible en Docker.
 * 🎛️ **[OpenCockpit](https://github.com/lucabaello1998/OpenCockpit)** • [Descargar v1.1.0](https://github.com/lucabaello1998/OpenCockpit/releases/latest)  
   Dashboard de escritorio (Electron 44 + React 19 + Vite) multi-herramienta: audita de forma 100% local sesiones, tokens, costos y conversaciones de Claude Code, OpenCode, Codex, Gemini/Antigravity, Copilot, Cursor y Cline/Roo Code sin backend ni telemetría.
 * 📦 **[FletAR](https://github.com/lucabaello1998/FletAR)**  
@@ -51,13 +53,15 @@ Currently pursuing a **B.S. in Computer Science** at Universidad Nacional de Hur
 
 ### 🚀 Tech Stack
 
-* **Backend**: .NET 8 / ASP.NET Core, C#, EF Core, SQL Server, PostgreSQL / PostGIS, SignalR, Clean Architecture / Layered Design, RESTful APIs, JWT & Auth flows.
+* **Backend**: .NET 8 / ASP.NET Core, C#, EF Core, SQL Server, PostgreSQL / PostGIS, SignalR, PHP 8.3 / Laravel 12, Clean Architecture / Layered Design, RESTful APIs, JWT & Auth flows.
 * **Frontend**: React 19, Next.js 15, TypeScript, Vite, Tailwind CSS, PrimeReact, Material UI, Zustand.
 * **Mobile / PWA**: Flutter (Riverpod), Capacitor, offline-first Progressive Web Apps.
 * **Tooling & AI**: AI Agent Orchestration (Claude Code, OpenCode, Codex, Gemini), test automation, token cost optimization, MCP servers.
 
 ### 🛠️ Featured Projects
 
+* 🧱 **[FieldOps](https://github.com/lucabaello1998/fieldops-modernization)** • [Deck](https://github.com/lucabaello1998/fieldops-modernization/blob/main/docs/FieldOps.pptx)  
+  Modernization of a production field-operations system (PHP 7.4 + jQuery, 76 tables without foreign keys, 11.3M rows) to Laravel 12 + PHP 8.3 + MySQL 8: the real schema migrated as-is, a server-validated drag & drop Kanban and 53 feature tests against real MySQL, with a reproducible Docker demo.
 * 🎛️ **[OpenCockpit](https://github.com/lucabaello1998/OpenCockpit)** • [Download v1.1.0](https://github.com/lucabaello1998/OpenCockpit/releases/latest)  
   Multi-tool desktop dashboard (Electron 44 + React 19 + Vite) for local AI engineering audits: tracks token usage, costs, sessions, and full conversation transcripts across Claude Code, OpenCode, Codex, Gemini/Antigravity, Copilot, Cursor, and Cline without backends or telemetry.
 * 📦 **[FletAR](https://github.com/lucabaello1998/FletAR)**  
