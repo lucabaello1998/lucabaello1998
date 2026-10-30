@@ -24,7 +24,9 @@ Actualmente curso la **Licenciatura en Informática** en la Universidad Nacional
 ### 🛠️ Proyectos Destacados
 
 * 🧱 **[FieldOps](https://github.com/lucabaello1998/fieldops-modernization)** • [Presentación](https://github.com/lucabaello1998/fieldops-modernization/blob/main/docs/FieldOps.pptx)  
-  Modernización de un sistema de gestión de campo en producción (PHP 7.4 + jQuery, 76 tablas sin claves foráneas, 11,3 M de filas) a Laravel 12 + PHP 8.3 + MySQL 8: el esquema real migrado sin recortes, Kanban con drag & drop validado en el servidor y 53 tests de feature sobre MySQL real, con demo reproducible en Docker.
+  Modernización de un sistema de gestión de campo en producción (PHP 7.4 + jQuery, 76 tablas sin claves foráneas, 11,3 M de filas) a Laravel 12 + PHP 8.3 + MySQL 8: el esquema real migrado sin recortes, Kanban con drag & drop validado en el servidor y 53 tests de feature sobre MySQL real, con demo reproducible en Docker y CI que corre tests + 10 verificaciones e2e con Chrome headless.
+* 🔍 **[legacy-lens](https://github.com/lucabaello1998/legacy-lens)** • [Informe de ejemplo](https://lucabaello1998.github.io/legacy-lens/)  
+  CLI en Python que radiografía un sistema legacy PHP/MySQL en un comando: lee el dump, reconstruye las relaciones que nunca se documentaron, detecta SQL concatenado, funciones extintas y secretos hardcodeados, y devuelve un **índice de dolor de migración** con plan de acción. 24 reglas, 50 tests, Docker y salida HTML/JSON/Markdown.
 * 🎛️ **[OpenCockpit](https://github.com/lucabaello1998/OpenCockpit)** • [Descargar v1.1.0](https://github.com/lucabaello1998/OpenCockpit/releases/latest)  
   Dashboard de escritorio (Electron 44 + React 19 + Vite) multi-herramienta: audita de forma 100% local sesiones, tokens, costos y conversaciones de Claude Code, OpenCode, Codex, Gemini/Antigravity, Copilot, Cursor y Cline/Roo Code sin backend ni telemetría.
 * 📦 **[FletAR](https://github.com/lucabaello1998/FletAR)**  
@@ -61,7 +63,9 @@ Currently pursuing a **B.S. in Computer Science** at Universidad Nacional de Hur
 ### 🛠️ Featured Projects
 
 * 🧱 **[FieldOps](https://github.com/lucabaello1998/fieldops-modernization)** • [Deck](https://github.com/lucabaello1998/fieldops-modernization/blob/main/docs/FieldOps.pptx)  
-  Modernization of a production field-operations system (PHP 7.4 + jQuery, 76 tables without foreign keys, 11.3M rows) to Laravel 12 + PHP 8.3 + MySQL 8: the real schema migrated as-is, a server-validated drag & drop Kanban and 53 feature tests against real MySQL, with a reproducible Docker demo.
+  Modernization of a production field-operations system (PHP 7.4 + jQuery, 76 tables without foreign keys, 11.3M rows) to Laravel 12 + PHP 8.3 + MySQL 8: the real schema migrated as-is, a server-validated drag & drop Kanban and 53 feature tests against real MySQL, with a reproducible Docker demo and CI running the suite plus 10 headless-Chrome e2e checks.
+* 🔍 **[legacy-lens](https://github.com/lucabaello1998/legacy-lens)** • [Sample report](https://lucabaello1998.github.io/legacy-lens/)  
+  Python CLI that X-rays a legacy PHP/MySQL system in one command: parses the dump, rebuilds the relationships nobody ever documented, flags concatenated SQL, dead functions and hardcoded secrets, and returns a **migration pain index** with an action plan. 24 rules, 50 tests, Docker, HTML/JSON/Markdown output.
 * 🎛️ **[OpenCockpit](https://github.com/lucabaello1998/OpenCockpit)** • [Download v1.1.0](https://github.com/lucabaello1998/OpenCockpit/releases/latest)  
   Multi-tool desktop dashboard (Electron 44 + React 19 + Vite) for local AI engineering audits: tracks token usage, costs, sessions, and full conversation transcripts across Claude Code, OpenCode, Codex, Gemini/Antigravity, Copilot, Cursor, and Cline without backends or telemetry.
 * 📦 **[FletAR](https://github.com/lucabaello1998/FletAR)**  
