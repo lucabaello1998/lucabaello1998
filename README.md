@@ -121,3 +121,17 @@ Currently pursuing a **B.S. in Computer Science** at Universidad Nacional de Hur
 * **LinkedIn**: [in/luca-baello](https://www.linkedin.com/in/luca-baello)
 * **Email**: [luca.baello@gmail.com](mailto:luca.baello@gmail.com)
 * **Location**: Buenos Aires, Argentina
+
+---
+
+## Capturas / Screenshots
+
+Cada una es del producto corriendo, no una maqueta. El resto está en el README de cada repo.
+
+| | |
+|---|---|
+| **LavAR** — panel del mostrador y seguimiento del cliente<br>![LavAR](https://raw.githubusercontent.com/lucabaello1998/LavAR/main/docs/panel.png) | **mlbb-draft** — tier list medida con winrate/banrate y drafter con bans<br>![mlbb-draft](https://raw.githubusercontent.com/lucabaello1998/mlbb-draft/main/docs/tierlist.png) |
+| **job-radar** — ofertas rankeadas contra el perfil, con el motivo de cada punto<br>![job-radar](https://raw.githubusercontent.com/lucabaello1998/job-radar/main/docs/captura.png) | **FletAR** — publicar un flete y ver ofertas cerca<br>![FletAR](https://raw.githubusercontent.com/lucabaello1998/FletAR/master/docs/capturas/01-crear-publicacion.png) |
+| **OpenCockpit** — uso, tokens y costo de siete herramientas de IA<br>![OpenCockpit](https://raw.githubusercontent.com/lucabaello1998/opencockpit/main/docs/capturas/resumen.png) | **sueldos-ar** — recibo de sueldo con la ley como dato<br>![sueldos-ar](https://raw.githubusercontent.com/lucabaello1998/sueldos-ar/main/docs/capturas/recibo.png) |
+| **legacy-lens** — radiografía de un sistema legacy en un comando<br>![legacy-lens](https://raw.githubusercontent.com/lucabaello1998/legacy-lens/main/docs/capturas/reporte.png) | **cvfit** — encaje CV / aviso, gaps y CV adaptado<br>![cvfit](https://raw.githubusercontent.com/lucabaello1998/cvfit/main/docs/capturas/interfaz.png) |
+| **FieldOps** — modernización PHP 7.4 → Laravel 12, tablero real<br>![FieldOps](https://raw.githubusercontent.com/lucabaello1998/fieldops-modernization/main/docs/capturas/deck/02-tablero.png) | **fichada** — fichaje con perímetro y horas de la semana<br>![fichada](https://raw.githubusercontent.com/lucabaello1998/fichada/master/docs/demo.png) |
