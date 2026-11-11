@@ -40,6 +40,12 @@ Actualmente curso la **Licenciatura en Informática** en la Universidad Nacional
   Librería .NET 8 para facturación electrónica argentina: arma y firma el TRA de WSAA (PKCS#7), cachea token y sign y pide el CAE por WSFEv1 sin escribir SOAP a mano. Incluye un mock de AFIP para trabajar sin certificado: 29 tests. Sin credenciales en el repo y con el detalle de qué falta para producción.
 * 📝 **[engineering-notes](https://github.com/lucabaello1998/engineering-notes)**  
   Cuaderno de notas de ingeniería con síntoma, causa, arreglo y cómo detectarlo la próxima vez. Cada nota cita el repo y el commit donde se arregló: chips que necesitaban dos toques, MediaWiki que corta en 500 categorías, un MCP que se rompe con un `console.log`.
+* 🎯 **[job-radar](https://github.com/lucabaello1998/job-radar)** · [Tablero](https://lucabaello1998.github.io/job-radar/)  
+  Radar diario de ofertas remotas: junta varias fuentes, deduplica, puntúa contra mi perfil real y escribe el motivo de cada punto. Publica un tablero autocontenido en Pages y registra postulaciones desde la terminal. 48 tests.
+* 📄 **[cvfit](https://github.com/lucabaello1998/cvfit)**  
+  Pegás tu CV y el aviso: cobertura de requisitos, gaps excluyentes y deseables, revisión estilo reclutador y CV adaptado en tres plantillas (ATS incluida). Reglas explícitas: no inventa experiencia. 118 tests.
+* 🎮 **[mlbb-draft](https://github.com/lucabaello1998/mlbb-draft)** · [Sitio](https://lucabaello1998.github.io/mlbb-draft/)  
+  Tier list de 134 héroes medida con winrate y banrate, drafter 5v5 con bans y sugerencias, y tips por héroe. Sin cuenta ni build: HTML, CSS y JS a mano.
 * 🧱 **[FieldOps](https://github.com/lucabaello1998/fieldops-modernization)** • [Presentación](https://github.com/lucabaello1998/fieldops-modernization/blob/main/docs/FieldOps.pptx)  
   Modernización de un sistema de gestión de campo en producción (PHP 7.4 + jQuery, 76 tablas sin claves foráneas, 11,3 M de filas) a Laravel 12 + PHP 8.3 + MySQL 8: el esquema real migrado sin recortes, Kanban con drag & drop validado en el servidor y 62 tests de feature sobre MySQL real, con demo reproducible en Docker y CI que corre tests + 10 verificaciones e2e con Chrome headless.
 * 🔍 **[legacy-lens](https://github.com/lucabaello1998/legacy-lens)** • [Informe de ejemplo](https://lucabaello1998.github.io/legacy-lens/)  
@@ -98,6 +104,12 @@ Currently pursuing a **B.S. in Computer Science** at Universidad Nacional de Hur
   .NET 8 client for Argentine e-invoicing: builds and signs the WSAA TRA (PKCS#7), caches token + sign and requests the CAE through WSFEv1 without hand-writing SOAP. Ships an AFIP mock so it runs without a certificate: 29 tests. No credentials in the repo, and the README spells out what production still needs.
 * 📝 **[engineering-notes](https://github.com/lucabaello1998/engineering-notes)**  
   Engineering notes with symptom, cause, fix and how to catch it next time. Every note cites the repo and commit where it was fixed: filter chips that needed two taps, MediaWiki truncating at 500 categories, an MCP server broken by one `console.log`.
+* 🎯 **[job-radar](https://github.com/lucabaello1998/job-radar)** · [Dashboard](https://lucabaello1998.github.io/job-radar/)  
+  Daily radar for remote jobs: pulls several sources, dedupes, scores against my real profile and writes the reason behind every point. Ships a self-contained dashboard on Pages and tracks applications from the terminal. 48 tests.
+* 📄 **[cvfit](https://github.com/lucabaello1998/cvfit)**  
+  Drop in a CV and a job post: requirement coverage, must-have gaps, recruiter-style review and an adapted CV in three templates (ATS included). Explicit rules: it never invents experience. 118 tests.
+* 🎮 **[mlbb-draft](https://github.com/lucabaello1998/mlbb-draft)** · [Site](https://lucabaello1998.github.io/mlbb-draft/)  
+  Tier list of 134 heroes measured with win and ban rates, a 5v5 drafter with bans and suggestions, and per-hero tips. No account, no build: hand-written HTML, CSS and JS.
 * 🧱 **[FieldOps](https://github.com/lucabaello1998/fieldops-modernization)** • [Deck](https://github.com/lucabaello1998/fieldops-modernization/blob/main/docs/FieldOps.pptx)  
   Modernization of a production field-operations system (PHP 7.4 + jQuery, 76 tables without foreign keys, 11.3M rows) to Laravel 12 + PHP 8.3 + MySQL 8: the real schema migrated as-is, a server-validated drag & drop Kanban and 62 feature tests against real MySQL, with a reproducible Docker demo and CI running the suite plus 10 headless-Chrome e2e checks.
 * 🔍 **[legacy-lens](https://github.com/lucabaello1998/legacy-lens)** • [Sample report](https://lucabaello1998.github.io/legacy-lens/)  
